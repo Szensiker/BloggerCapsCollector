@@ -1,5 +1,5 @@
 ﻿$(document).ready(function() {
     $('#example').DataTable( {
-        "ajax": 'https://raw.githubusercontent.com/Szensiker/CapsCollectorData/master/caps.txt'
+        "ajax": 'E:\Programowanie\capscollector.blogspot.com\CapsCollectorData/caps.txt'
     } );
 } );
