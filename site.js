@@ -8,7 +8,7 @@
             },
             { "data": "beer_name" },
             { "data": "country" },
-            { "data": "colours" }
+            { "data": "colors" }
         ]
     } );
 } );
